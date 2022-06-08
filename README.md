@@ -2,7 +2,7 @@
 - 👀 I’m interested in studing and...
 - 🌱 I’m currently learning to live 
 - 💞️ I’m looking to collaborate on with the evolution of the world
-- 📫 How to reach me [instagram] (@wiliandechristo)
+- 📫 How to reach me instagram (@wiliandechristo)
 
 <!---
 wiliandechristo/wiliandechristo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
